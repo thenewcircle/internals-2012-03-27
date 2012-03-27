@@ -1,0 +1,16 @@
+= Android Internals
+
+5 March 2012
+
+Ken Jones, ken@marakana.com
+
+To clone the repository:
+
+	git clone git://github.com/marakana/internals-2012-03-27.git
+
+== Useful Links
+
+* Android Porting Guide (obsolete!): http://www.kandroid.org/online-pdk/guide/index.html
+
+* Binder driver overview: http://lukejin.wordpress.com/2011/03/13/android%E4%B8%AD%E7%9A%84binder/
+
