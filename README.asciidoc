@@ -8,6 +8,8 @@ To clone the repository:
 
 	git clone git://github.com/marakana/internals-2012-03-27.git
 
+IMPORTANT: Please fill out the post-class survey at: http://marakana.com/survey
+
 == Useful Links
 
 * Android Porting Guide (obsolete!): http://www.kandroid.org/online-pdk/guide/index.html
