@@ -4,11 +4,11 @@
 
 Ken Jones, ken@marakana.com
 
+IMPORTANT: Please fill out the post-class survey at: http://marakana.com/survey
+
 To clone the repository:
 
 	git clone git://github.com/marakana/internals-2012-03-27.git
-
-IMPORTANT: Please fill out the post-class survey at: http://marakana.com/survey
 
 == Useful Links
 
@@ -16,3 +16,30 @@ IMPORTANT: Please fill out the post-class survey at: http://marakana.com/survey
 
 * Binder driver overview: http://lukejin.wordpress.com/2011/03/13/android%E4%B8%AD%E7%9A%84binder/
 
+== Screencasts
+
+Here is a link to the screencasts for the class:
+
+* http://marakana.com/external/video/2012-03-27-internals/day1-part-1.mov
+* http://marakana.com/external/video/2012-03-27-internals/day1-part-2.mov
+* http://marakana.com/external/video/2012-03-27-internals/day1-part-3.mov
+* http://marakana.com/external/video/2012-03-27-internals/day1-part-4.mov
+* http://marakana.com/external/video/2012-03-27-internals/day2-part-1.mov
+* http://marakana.com/external/video/2012-03-27-internals/day2-part-2.mov
+* http://marakana.com/external/video/2012-03-27-internals/day2-part-3.mov
+* http://marakana.com/external/video/2012-03-27-internals/day2-part-4.mov
+* http://marakana.com/external/video/2012-03-27-internals/day3-part-1.mov
+* http://marakana.com/external/video/2012-03-27-internals/day3-part-2.mov
+* http://marakana.com/external/video/2012-03-27-internals/day3-part-3.mov
+* http://marakana.com/external/video/2012-03-27-internals/day3-part-4.mov
+* http://marakana.com/external/video/2012-03-27-internals/day4-part-1.mov
+* http://marakana.com/external/video/2012-03-27-internals/day4-part-2.mov
+* http://marakana.com/external/video/2012-03-27-internals/day4-part-3.mov
+* http://marakana.com/external/video/2012-03-27-internals/day4-part-4.mov
+
+== SDK Add-On
+
+As we ran out of time and didn't have time to build and try out the Marakana Alpha SDK add-on in class, here is a copy of the resulting add-on:
+http://marakana.com/external/video/2012-03-27-internals/marakana_alpha_addon-eng.ken-mac-x86.zip
+
+You can try this out following the instructions in Section 9.13 of the _Android_Internals.pdf_ document.
